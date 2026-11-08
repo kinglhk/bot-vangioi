@@ -318,7 +318,7 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-      <title>Kiru Đẹp Trai - Control Panel</title>
+      <title> Ai Đọc Là Gay - Control Panel</title>
       <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
       <style>
         :root {
